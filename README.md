@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Oi! me chamo Gabriel Ruiz e sou<strong>desenvolvedor Front-end</strong>.<br>
+  Oi! me chamo Gabriel Ruiz e sou <strong>desenvolvedor Front-end</strong>.<br>
   Estudo Engenharia de software, onde atualmente estou desenvolvendo duas aplicações completas.
 </p>
 
